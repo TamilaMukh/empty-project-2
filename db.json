@@ -9,7 +9,32 @@
       "video": "https://video.internetvideoarchive.net/video.mp4?cmd=6&fmt=4&customerid=654126&publishedid=10006&e=2208902400&videokbrate=1500&h=f6d9f8f98b2a3947503a53acd784b06a",
       "meta": 69,
       "user": 8,
-      "genre": "Biography, Drama, History, Comedy, Music"
+      "genre": "Biography, Drama, History, Comedy, Music",
+      "metacritic": [
+        {
+          "id": 1,
+          "name": "Peter Debruge",
+          "date": "Feb 28, 2022",
+          "img": "https://static.metacritic.com/images/publications/1567127307_81_1995932635.png",
+          "review": "This grounded, frequently brutal and nearly three-hour film noir registers among the best of the genre, even if — or more aptly, because — what makes the film so great is its willingness to dismantle and interrogate the very concept of superheroes"
+        }
+      ],
+      "usercritic": [
+        {
+          "id": 1,
+          "name": "Panchogul",
+          "rate": 10,
+          "date": "Mar 4, 2022",
+          "review": "The Batman es una espectacularidad y una gloria por dondequiera que se le mire, es intensa, cruda y explosiva, definitivamente Robert Pattinson llegó a cerrarle la boca a sus detractores, no tiene comparación alguna y su interpretación como el vigilante es auténtica y creíble. Un aspecto que me pareció increíble aparte de toda la película fue que sigue un patrón muy similar a los siete pecados capitales quedando impecable, la ambientación de Ciudad Gótica luce menos decadente y fría que en otras adaptaciones y Zoë Kravitz desempeña bien su personaje de Selina Kyle sin necesidad de compararse con versiones previas del personaje. No hay escenas post créditos, así que no necesitan quedarse a ver toda la rola de créditos finales."
+        },
+        {
+          "id": 2,
+          "name": "ndiansean21",
+          "rate": 10,
+          "date": "Mar 4, 2022",
+          "review": "Pattinson is the best Batman. So much emotion and turmoil and conflict is conveyed even though he spends the majority of the movie under the cowl. Reeves masterfully creates a living graphic novel as blends together elements of The Godfather, Se7en, Zodiak, French Connection, and Chinatown in a CBM unlike any other. Director and artist driven instead of a formulaic studio rehash. The cast all knock it out of the park. Can’t wait to see it again."
+        }
+      ]
     },
     {
       "id": 2,
@@ -20,8 +45,42 @@
       "video": "https://video.internetvideoarchive.net/video.mp4?cmd=6&fmt=4&customerid=654126&publishedid=107322&e=2208902400&videokbrate=1500&h=2b3f0554d85bad2e560315c23618d4f6",
       "meta": 72,
       "user": 8.2,
-      "genre": "Action, Sci-Fi, Drama, Mystery, Crime"
-    },
+      "genre": "Action, Sci-Fi, Drama, Mystery, Crime",
+      "metacritic": [
+        {
+          "id": 1,
+          "name": "Peter Debruge",
+          "rate": 100,
+          "date": "Feb 28, 2022",
+          "img": "https://static.metacritic.com/images/publications/1567127307_81_1995932635.png",
+          "review": "This grounded, frequently brutal and nearly three-hour film noir registers among the best of the genre, even if — or more aptly, because — what makes the film so great is its willingness to dismantle and interrogate the very concept of superheroes"
+        },
+        {
+          "id": 2,
+          "name": "Josh Larsen",
+          "rate": 88,
+          "date": "Mar 3, 2022",
+          "img": "https://static.metacritic.com/images/publications/1567123158_3005_1693762732.png",
+          "review": "Pattinson and Kravitz bring real heat to their scenes together—there’s a great moment where he holds her against his chest as they’re hiding from a pursuer and their breathing slowly, erotically falls into rhythm. Even at three hours, the movie could use more of her."
+        }
+      ],
+      "usercritic": [
+        {
+          "id": 1,
+          "name": "Panchogul",
+          "rate": 10,
+          "date": "Mar 4, 2022",
+          "review": "The Batman es una espectacularidad y una gloria por dondequiera que se le mire, es intensa, cruda y explosiva, definitivamente Robert Pattinson llegó a cerrarle la boca a sus detractores, no tiene comparación alguna y su interpretación como el vigilante es auténtica y creíble. Un aspecto que me pareció increíble aparte de toda la película fue que sigue un patrón muy similar a los siete pecados capitales quedando impecable, la ambientación de Ciudad Gótica luce menos decadente y fría que en otras adaptaciones y Zoë Kravitz desempeña bien su personaje de Selina Kyle sin necesidad de compararse con versiones previas del personaje. No hay escenas post créditos, así que no necesitan quedarse a ver toda la rola de créditos finales."
+        },
+        {
+          "id": 2,
+          "name": "ndiansean21",
+          "rate": 10,
+          "date": "Mar 4, 2022",
+          "review": "Pattinson is the best Batman. So much emotion and turmoil and conflict is conveyed even though he spends the majority of the movie under the cowl. Reeves masterfully creates a living graphic novel as blends together elements of The Godfather, Se7en, Zodiak, French Connection, and Chinatown in a CBM unlike any other. Director and artist driven instead of a formulaic studio rehash. The cast all knock it out of the park. Can’t wait to see it again."
+        }
+      ]
+    },  
     {
       "title": " Transformers: The Last Knight",
       "date": "June 21, 2017",
@@ -31,7 +90,55 @@
       "meta": "27",
       "user": "4.1",
       "genre": "Action, Adventure, Sci-Fi, Thriller",
-      "id": 3
+      "id": 3,
+      "metacritic": [
+        {
+          "id": 1,
+          "name": "Peter Debruge",
+          "rate": 100,
+          "date": "Feb 28, 2022",
+          "img": "https://static.metacritic.com/images/publications/1567127307_81_1995932635.png",
+          "review": "This grounded, frequently brutal and nearly three-hour film noir registers among the best of the genre, even if — or more aptly, because — what makes the film so great is its willingness to dismantle and interrogate the very concept of superheroes"
+        },
+        {
+          "id": 2,
+          "name": "Josh Larsen",
+          "rate": 88,
+          "date": "Mar 3, 2022",
+          "img": "https://static.metacritic.com/images/publications/1567123158_3005_1693762732.png",
+          "review": "Pattinson and Kravitz bring real heat to their scenes together—there’s a great moment where he holds her against his chest as they’re hiding from a pursuer and their breathing slowly, erotically falls into rhythm. Even at three hours, the movie could use more of her."
+        }
+      ],
+      "usercritic": [
+        {
+          "id": 1,
+          "name": "Panchogul",
+          "rate": 10,
+          "date": "Mar 4, 2022",
+          "review": "The Batman es una espectacularidad y una gloria por dondequiera que se le mire, es intensa, cruda y explosiva, definitivamente Robert Pattinson llegó a cerrarle la boca a sus detractores, no tiene comparación alguna y su interpretación como el vigilante es auténtica y creíble. Un aspecto que me pareció increíble aparte de toda la película fue que sigue un patrón muy similar a los siete pecados capitales quedando impecable, la ambientación de Ciudad Gótica luce menos decadente y fría que en otras adaptaciones y Zoë Kravitz desempeña bien su personaje de Selina Kyle sin necesidad de compararse con versiones previas del personaje. No hay escenas post créditos, así que no necesitan quedarse a ver toda la rola de créditos finales."
+        },
+        {
+          "id": 2,
+          "name": "ndiansean21",
+          "rate": 10,
+          "date": "Mar 4, 2022",
+          "review": "Pattinson is the best Batman. So much emotion and turmoil and conflict is conveyed even though he spends the majority of the movie under the cowl. Reeves masterfully creates a living graphic novel as blends together elements of The Godfather, Se7en, Zodiak, French Connection, and Chinatown in a CBM unlike any other. Director and artist driven instead of a formulaic studio rehash. The cast all knock it out of the park. Can’t wait to see it again."
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Olzhas",
+      "surname": "Alidarov",
+      "middlename": "(MidName)",
+      "gpa": 5,
+      "email": "single@mail.ru",
+      "password": "607107",
+      "status": false,
+      "dopinfa": true,
+      "balance": 30000
     }
   ]
 }
